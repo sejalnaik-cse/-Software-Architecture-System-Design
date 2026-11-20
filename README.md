@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Order Management
 
 A small, full-stack order management app with a REST API and a React dashboard. Orders are stored in `data/orders.json`, so the project runs locally without a database service.
@@ -42,3 +43,7 @@ The JSON file store is intended for this self-contained assignment/demo. For a m
 npm test
 npm run build
 ```
+=======
+# -Software-Architecture-System-Design
+Project File
+>>>>>>> beedd425226c1d02346f632952b51aeac64732a8
